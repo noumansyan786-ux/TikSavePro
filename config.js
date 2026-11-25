@@ -3,4 +3,4 @@
 //  Example: "https://tiksavepro-api.yourname.workers.dev"
 //  (no slash at the end)
 // =============================================================
-window.TIKSAVE_API = "https://tiksavepro-api.YOUR-SUBDOMAIN.workers.dev";
+window.TIKSAVE_API = "https://tiksavepro-api.noumanofficial33.workers.dev";
